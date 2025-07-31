@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://t3.ftcdn.net/jpg/07/11/26/60/240_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHmWFTYoxLNTQ/profile-displaybackgroundimage-shrink_350_1400/B4EZhiJG3FHEAg-/0/1753993211783?e=1756944000&v=beta&t=p2vh5lth8PT0ZMVzYabPC5b-sbSRJ-Ku1CrmkkNyxtU"/>
 </p>
 
 # Sobre mí:
