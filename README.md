@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Soul-Decoder.
-- 👀 I’m interested in Anime, Manga, NBA & Python.
-- 🌱 I’m currently learning Data_Science.
-- 💞️ I’m looking to collaborate on projects about Data_Science.
+- 👋 Hola, soy Abel García.
+- 👀 Me interesa trabajar en proyectos que ayuden a desarrollar mis habilidades en Python.
+- 🌱Actualmente me encuentro realizando un bootcamp en análisis de datos.
+- 💞️ Las librerías que más domino son Pandas, Scipy y Seaborn.
 - 📫 My email is ajgarciao95@gmail.com
 
 <!---
