@@ -1,7 +1,7 @@
 - 👋 Hola, soy Abel García.
 - 👀 Me interesa trabajar en proyectos que ayuden a desarrollar mis habilidades en Python.
 - 🌱Actualmente me encuentro realizando un bootcamp en análisis de datos.
-- 💞️ Las librerías que más domino son Pandas, Scipy y Seaborn.
+- 💞️ Las librerías que más domino son Pandas, Scipy, Seaborn y Pyomo.
 - 📫 My email is ajgarciao95@gmail.com
 
 <!---
